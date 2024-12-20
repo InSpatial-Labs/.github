@@ -50,5 +50,3 @@ _Reality is your canvas_
 | [![InSpatial Store](https://inspatial-storage.s3.eu-west-2.amazonaws.com/media/store-badge.svg)](https://www.inspatial.store) | Deploy and discover InSpatial apps | [inspatial.store](https://www.inspatial.store) |
 
 </div>
-
----
